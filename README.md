@@ -16,8 +16,8 @@
     * This course also teaches you how Deep Learning actually works, rather than presenting only a cursory or surface-level description. So after completing it, you will be able to apply deep learning to a your own applications. If you are looking for a job in AI, after this course you will also be able to answer basic interview questions. 
     
     * Programming Assignments:
-        * Python Basics with Numpy   [[notebook]](https://github.com/rjmanzo/deep-learning-specialization/tree/master/notebook/Python%20Basics%20With%20Numpy%20v3.ipynb) [[py]](https://github.com/rjmanzo/deep-learning-specialization/rjmanzo/tree/master/py/Python%20Basics%20With%20Numpy%20v3.py)
-        * Logistic Regression with a Neural Network mindset  [[notebook]](https://github.com/rjmanzo/deep-learning-specialization/tree/master/notebook/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset%20v5.ipynb)   [[py]](https://github.com/rjmanzo/deep-learning-specialization/tree/master/py/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset%20v5.py)
+        * Python Basics with Numpy   [[notebook]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/notebook/Python%2BBasics%2BWith%2BNumpy%2Bv3.ipynb) [[py]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/py/Python%2BBasics%2BWith%2BNumpy%2Bv3.py)
+        * Logistic Regression with a Neural Network mindset  [[notebook]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/notebook/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv5.ipynb)   [[py]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/py/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv5.py)
         * Planar data classification with one hidden layer   
         * Deep Neural Network Application 
         * Building your Deep Neural Network Step by Step 
