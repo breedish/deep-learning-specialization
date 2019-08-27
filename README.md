@@ -18,9 +18,9 @@
     * Programming Assignments:
         * Python Basics with Numpy   [[notebook]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/notebook/Python%2BBasics%2BWith%2BNumpy%2Bv3.ipynb) [[py]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/py/Python%2BBasics%2BWith%2BNumpy%2Bv3.py)
         * Logistic Regression with a Neural Network mindset  [[notebook]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/notebook/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv5.ipynb)   [[py]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/py/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv5.py)
-        * Planar data classification with one hidden layer   
-        * Deep Neural Network Application 
+        * Planar data classification with one hidden layer [[notebook]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/notebook/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv5.ipynb)   [[py]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/py/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv5.py)
         * Building your Deep Neural Network Step by Step 
+		* Deep Neural Network Application 
         
 * [***Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization***](https://www.coursera.org/learn/deep-neural-network/home/welcome) 
             
