@@ -18,7 +18,7 @@
     * Programming Assignments:
         * Python Basics with Numpy   [[notebook]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/notebook/Python%2BBasics%2BWith%2BNumpy%2Bv3.ipynb) [[py]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/py/Python%2BBasics%2BWith%2BNumpy%2Bv3.py)
         * Logistic Regression with a Neural Network mindset  [[notebook]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/notebook/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv5.ipynb)   [[py]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/py/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv5.py)
-        * Planar data classification with one hidden layer [[notebook]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/notebook/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv5.ipynb)   [[py]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/py/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv5.py)
+        * Planar data classification with one hidden layer [[notebook]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/notebook/Planar_data_classification_with_onehidden_layer_v6b.ipynb)   [[py]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/py/Planar_data_classification_with_onehidden_layer_v6b.py)
         * Building your Deep Neural Network Step by Step 
 		* Deep Neural Network Application 
         
