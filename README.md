@@ -31,9 +31,9 @@
 		* Be able to implement a neural network in TensorFlow. 
 	
 	* Programming Assignments:
-		* Initialization
-		* Regularization
-		* Gradient Checking
+		* Initialization [[notebook]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/notebook/Initialization.ipynb)   [[py]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/py/Initialization.py)
+		* Regularization [[notebook]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/notebook/Regularization_v2a.ipynb)   [[py]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/py/Regularization_v2a.py)
+		* Gradient Checking [[notebook]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/notebook/Gradient%2BChecking%2Bv1.ipynb)   [[py]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/py/Gradient%2BChecking%2Bv1.py)
 		* Optimization
 		* Tensorflow		
             
