@@ -34,8 +34,8 @@
 		* Initialization [[notebook]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/notebook/Initialization.ipynb)   [[py]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/py/Initialization.py)
 		* Regularization [[notebook]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/notebook/Regularization_v2a.ipynb)   [[py]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/py/Regularization_v2a.py)
 		* Gradient Checking [[notebook]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/notebook/Gradient%2BChecking%2Bv1.ipynb)   [[py]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/py/Gradient%2BChecking%2Bv1.py)
-		* Optimization
-		* Tensorflow		
+		* Optimization [[notebook]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/notebook/Optimization_methods_v1b.ipynb)   [[py]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/py/Optimization_methods_v1b.py) 
+		* Tensorflow [[notebook]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/notebook/TensorFlow_Tutorial_v3b.ipynb)   [[py]](https://github.com/rjmanzo/deep-learning-specialization/blob/master/py/TensorFlow_Tutorial_v3b.py)		
             
 * [***Structuring Machine Learning Projects***](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
 	* You will learn how to build a successful machine learning project. If you aspire to be a technical leader in AI, and know how to set direction for your team's work, this course will show you how. Much of this content has never been taught elsewhere, and is drawn from my experience building and shipping many deep learning products. This course also has two "flight simulators" that let you practice decision-making as a machine learning project leader. This provides "industry experience" that you might otherwise get only after years of ML work experience.
